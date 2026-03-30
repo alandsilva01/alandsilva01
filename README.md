@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Alan Silva 🖐️
 
-Desenvolvedor Front-End apaixonado por tecnologia, interfaces, automações e evolução constante.
-Atualmente atuo com desenvolvimento web, SEO técnico, bancos de dados, versionamento e manutenção de sistemas.
+Desenvolvedor Front-End com experiência em desenvolvimento web, interfaces responsivas, SEO técnico, bancos de dados e manutenção de sistemas.
+
+Atualmente atuo no desenvolvimento e manutenção de sites e aplicações, trabalhando com PHP, JavaScript, bancos de dados, versionamento, tratamento de imagens e otimização para mecanismos de busca.
+
+Tenho como foco criar soluções organizadas, performáticas e de fácil manutenção, sempre buscando evoluir tecnicamente e entregar um trabalho de qualidade.
 
 ---
 
@@ -27,21 +30,24 @@ Atualmente atuo com desenvolvimento web, SEO técnico, bancos de dados, versiona
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e formado tecnicamente em Informática pelo SENAC.
+Sou formado em Análise e Desenvolvimento de Sistemas.
 
-Minha trajetória começou com manutenção de computadores, instalação de redes e sistemas de circuito fechado. Com o tempo, direcionei meu foco para desenvolvimento web, área na qual venho atuando e estudando diariamente.
+Minha trajetória na tecnologia começou com manutenção de computadores, redes e sistemas de circuito fechado. Com o passar do tempo, direcionei meu foco para o desenvolvimento web, área em que atuo atualmente e na qual venho construindo minha carreira.
 
-Hoje trabalho com desenvolvimento Front-End, criando e ajustando páginas, sistemas e interfaces responsivas a partir de layouts do Figma, utilizando tecnologias como HTML, CSS, JavaScript, PHP e bancos de dados.
+Hoje trabalho como Desenvolvedor Front-End, desenvolvendo páginas e sistemas a partir de layouts no Figma, realizando integrações com banco de dados, ajustes em SIG, blogs, breadcrumbs, MPIs e implementações em PHP, HTML, CSS e JavaScript.
 
-Também possuo experiência com:
+Também atuo com:
 
-* SEO técnico
-* Tratamento e otimização de imagens
-* Validação W3C e PVAL
-* Git, Bitbucket e Jira
-* Configuração de ambientes locais com XAMPP e Docker
-* Integração com banco de dados
-* Estruturação de projetos reutilizáveis
+* SEO técnico e otimização para posicionamento orgânico
+* Tratamento e conversão de imagens para WebP
+* Validação de projetos com W3C e PVAL
+* Versionamento com Git, Bitbucket e fluxo de branches
+* Organização de demandas via Jira e Kanban
+* Configuração de ambiente local com XAMPP, Git Bash e Docker
+* Estruturação de projetos reutilizáveis e escaláveis
+* Desenvolvimento de sistemas em Laravel e Vue.js
+
+Tenho facilidade de aprendizado, perfil analítico e gosto de entender a fundo cada projeto em que atuo. Estou sempre buscando evoluir minhas habilidades e ampliar meu conhecimento em desenvolvimento Front-End e Full Stack.
 
 ---
 
@@ -58,9 +64,11 @@ Também possuo experiência com:
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor, participando de projetos cada vez mais desafiadores e criando soluções organizadas, funcionais e eficientes.
+Meu objetivo é consolidar minha carreira como desenvolvedor, participando de projetos cada vez mais desafiadores e contribuindo com soluções modernas, eficientes e bem estruturadas.
 
-Busco unir aprendizado constante, boa comunicação e dedicação para gerar valor em qualquer equipe ou projeto.
+Quero continuar crescendo em Front-End e Full Stack, aprofundando meus conhecimentos em Laravel, Vue.js, arquitetura de sistemas, automações e integração entre aplicações.
+
+Acredito que dedicação, constância e vontade de aprender são os principais diferenciais de um profissional — e é exatamente isso que busco demonstrar em cada projeto que desenvolvo.
 
 ---
 
@@ -75,6 +83,5 @@ Busco unir aprendizado constante, boa comunicação e dedicação para gerar val
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/alan-silvaa/
-* E-mail: alan-agenor@hotmail.com
-* Portfólio: em desenvolvimento
+* LinkedIn: [https://www.linkedin.com/in/alan-silvaa/](https://www.linkedin.com/in/alan-silvaa/)
+* E-mail: [alan-agenor@hotmail.com](mailto:alan-agenor@hotmail.com)
