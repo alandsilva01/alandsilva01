@@ -1,60 +1,80 @@
 ## Olá! Eu sou o Alan Silva 🖐️
 
-## Tecnologias que eu uso no meu dia
+Desenvolvedor Front-End apaixonado por tecnologia, interfaces, automações e evolução constante.
+Atualmente atuo com desenvolvimento web, SEO técnico, bancos de dados, versionamento e manutenção de sistemas.
 
-<div style="display: inline_block">
+---
+
+## 🚀 Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- 
-</div><br/>
+  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-#Sobre
+---
 
-Alan Silva é um profissional apaixonado por tecnologia e desenvolvimento, com uma trajetória dedicada ao aprendizado e ao crescimento na área de tecnologia. Embora não tenha experiência prévia, seu compromisso e dedicação são evidentes em sua jornada até o momento.
+## 👨‍💻 Sobre mim
 
-#Resumo Profissional
+Sou estudante de Análise e Desenvolvimento de Sistemas e formado tecnicamente em Informática pelo SENAC.
 
-Alan começou sua carreira no mundo da tecnologia por meio de cursos básicos e, posteriormente, aprofundou seus conhecimentos com um curso técnico em informática no SENAC. Durante esse período, ele adquiriu habilidades essenciais, incluindo:
+Minha trajetória começou com manutenção de computadores, instalação de redes e sistemas de circuito fechado. Com o tempo, direcionei meu foco para desenvolvimento web, área na qual venho atuando e estudando diariamente.
 
--Manutenção de computadores, abrangendo limpeza, formatação e correções corretivas e preventivas.
--Configuração e instalação de redes.
--Trabalhou com sistemas de circuito fechado.
+Hoje trabalho com desenvolvimento Front-End, criando e ajustando páginas, sistemas e interfaces responsivas a partir de layouts do Figma, utilizando tecnologias como HTML, CSS, JavaScript, PHP e bancos de dados.
 
-Mais recentemente, Alan direcionou seu foco para o desenvolvimento front-end. Atualmente, ele está estudando ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, com um forte interesse nessa área. Suas habilidades técnicas incluem:
+Também possuo experiência com:
 
-Linguagem de Programação:
--JavaScript
--TypeScript
--Python
+* SEO técnico
+* Tratamento e otimização de imagens
+* Validação W3C e PVAL
+* Git, Bitbucket e Jira
+* Configuração de ambientes locais com XAMPP e Docker
+* Integração com banco de dados
+* Estruturação de projetos reutilizáveis
 
-Linguagem de Marcação:
--HTML
--CSS
+---
 
-Framework:
--Bootstrap
--React
+## 📚 Atualmente estudando
 
-Banco de Dados:
--SQL
+* Laravel + Vue.js
+* TypeScript
+* Arquitetura de sistemas
+* APIs e integrações
+* Automação de rotinas
+* Desenvolvimento Full Stack
 
-Versionamento:
--Git
+---
 
-*Possui familiaridade com todas as tecnologias mencionadas. Embora tenha tido mais experiência em algumas delas do que em outras, está comprometido em desenvolvê-las continuamente.*
+## 🎯 Objetivo
 
-#Habilidades e Determinação
+Continuar evoluindo como desenvolvedor, participando de projetos cada vez mais desafiadores e criando soluções organizadas, funcionais e eficientes.
 
-Alan é caracterizado por sua facilidade de aprendizado, comunicação eficaz e uma determinação incansável para aprimorar suas habilidades. Ele tem se destacado em projetos pessoais diários, demonstrando sua dedicação em expandir seu conhecimento constantemente.
+Busco unir aprendizado constante, boa comunicação e dedicação para gerar valor em qualquer equipe ou projeto.
 
-#Objetivo Profissional
+---
 
-Alan está comprometido em ingressar na indústria de desenvolvimento como um Desenvolvedor Front-End e está atualmente em busca de uma oportunidade de estágio/trainee que lhe permita aplicar suas habilidades e paixão pela programação. Ele acredita firmemente que sua motivação, ética de trabalho e desejo de aprender fazem dele um candidato valioso para qualquer equipe de desenvolvimento.
+<div>
+  <a href="https://github.com/seuusuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-#Conclusão
+---
 
-Com uma base sólida e uma paixão crescente pela programação, Alan Silva está pronto para enfrentar desafios e contribuir positivamente em uma equipe de desenvolvimento. Sua jornada até agora reflete seu compromisso com o crescimento profissional, tornando-o um candidato promissor em busca de uma oportunidade no mercado de tecnologia.
+## 📫 Contato
 
+* LinkedIn: https://www.linkedin.com/in/alan-silvaa/
+* E-mail: alan-agenor@hotmail.com
+* Portfólio: em desenvolvimento
