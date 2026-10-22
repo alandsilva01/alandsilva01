@@ -1,87 +1,67 @@
 ## Olá! Eu sou o Alan Silva 🖐️
 
-Desenvolvedor Front-End com experiência em desenvolvimento web, interfaces responsivas, SEO técnico, bancos de dados e manutenção de sistemas.
+**Desenvolvedor Full-Stack / Analista de Sistemas** — PHP · Laravel · JavaScript
 
-Atualmente atuo no desenvolvimento e manutenção de sites e aplicações, trabalhando com PHP, JavaScript, bancos de dados, versionamento, tratamento de imagens e otimização para mecanismos de busca.
+Construo e evoluo sistemas web em produção: da regra de negócio e modelagem de dados ao deploy — com foco em arquitetura, performance, segurança e código de fácil manutenção.
 
-Tenho como foco criar soluções organizadas, performáticas e de fácil manutenção, sempre buscando evoluir tecnicamente e entregar um trabalho de qualidade.
+🔭 Atualmente na **SP+ Escolas**, onde estruturei a área de sistemas do zero, desenvolvendo plataformas internas (indicadores, gestão de ativos, integrações, automações) para a operação das escolas.
 
 ---
 
 ## 🚀 Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="center" alt="filament" src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img align="center" alt="alpinejs" src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas.
+Sou formado em Análise e Desenvolvimento de Sistemas (Unicid) e tenho a formação Desenvolvedor FullStack JavaScript (OneBitCode).
 
-Minha trajetória na tecnologia começou com manutenção de computadores, redes e sistemas de circuito fechado. Com o passar do tempo, direcionei meu foco para o desenvolvimento web, área em que atuo atualmente e na qual venho construindo minha carreira.
+Minha trajetória começou na infraestrutura — suporte técnico, redes e manutenção — e evoluiu para o desenvolvimento web, onde hoje atuo **full-stack**. Gosto de entender cada projeto a fundo, da modelagem de dados à entrega, e construir soluções organizadas, performáticas e escaláveis.
 
-Hoje trabalho como Desenvolvedor Front-End, desenvolvendo páginas e sistemas a partir de layouts no Figma, realizando integrações com banco de dados, ajustes em SIG, blogs, breadcrumbs, MPIs e implementações em PHP, HTML, CSS e JavaScript.
+No dia a dia trabalho com:
 
-Também atuo com:
-
-* SEO técnico e otimização para posicionamento orgânico
-* Tratamento e conversão de imagens para WebP
-* Validação de projetos com W3C e PVAL
-* Versionamento com Git, Bitbucket e fluxo de branches
-* Organização de demandas via Jira e Kanban
-* Configuração de ambiente local com XAMPP, Git Bash e Docker
-* Estruturação de projetos reutilizáveis e escaláveis
-* Desenvolvimento de sistemas em Laravel e Vue.js
-
-Tenho facilidade de aprendizado, perfil analítico e gosto de entender a fundo cada projeto em que atuo. Estou sempre buscando evoluir minhas habilidades e ampliar meu conhecimento em desenvolvimento Front-End e Full Stack.
+- Back-end e APIs REST em **PHP 8.3 / Laravel 11** (Eloquent, Migrations, Queues, Cache)
+- Painéis administrativos com **Filament** e interfaces com **Blade, Alpine.js, Tailwind e JavaScript**
+- Modelagem e otimização de dados em **MySQL** e cache com **Redis**
+- Integrações entre sistemas (GLPI, Sienge), automações e dashboards de indicadores
+- **QA** (testes automatizados), code review e versionamento com **Git**
+- **Deploy** por SSH em VM/containers (**Docker/Linux**), com atenção a arquitetura e segurança
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente estudando / aprofundando
 
-* Laravel + Vue.js
-* TypeScript
-* Arquitetura de sistemas
-* APIs e integrações
-* Automação de rotinas
-* Desenvolvimento Full Stack
+- Arquitetura de sistemas e boas práticas (SOLID, Clean Code)
+- APIs, integrações e mensageria
+- Automação de rotinas
+- TypeScript e ecossistema JS moderno
 
 ---
 
 ## 🎯 Objetivo
 
-Meu objetivo é consolidar minha carreira como desenvolvedor, participando de projetos cada vez mais desafiadores e contribuindo com soluções modernas, eficientes e bem estruturadas.
-
-Quero continuar crescendo em Front-End e Full Stack, aprofundando meus conhecimentos em Laravel, Vue.js, arquitetura de sistemas, automações e integração entre aplicações.
-
-Acredito que dedicação, constância e vontade de aprender são os principais diferenciais de um profissional — e é exatamente isso que busco demonstrar em cada projeto que desenvolvo.
-
----
-
-<div>
-  <a href="https://github.com/seuusuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+Consolidar minha carreira como desenvolvedor full-stack, atuando em projetos cada vez mais desafiadores e contribuindo com soluções modernas, eficientes e bem estruturadas — com dedicação, constância e vontade de aprender como principais diferenciais.
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: [https://www.linkedin.com/in/alan-silvaa/](https://www.linkedin.com/in/alan-silvaa/)
-* E-mail: [alan-agenor@hotmail.com](mailto:alan-agenor@hotmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/alan-silvaa/
+- **E-mail:** alan-agenor@hotmail.com
